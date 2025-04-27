@@ -108,4 +108,37 @@
 </tbody>
 </table>
 
+## 🧠 Power User Commands
+
+<table style="border:1px solid #fff">
+<thead style="border:1px solid #fff">
+    <th style="border:1px solid #fff">SL. No</th>
+    <th style="border:1px solid #fff">Shortcut</th>
+    <th style="border:1px solid #fff">Action</th>
+</thead>
+<tbody>
+<tr>
+    <td style="border:1px solid #fff">1</td>
+    <td style="border:1px solid #fff">Windows + X</td>
+    <td style="border:1px solid #fff">Opens Quick Link Menu (access Device Manager, Task Manager, etc.)</td>
+</tr>
+<tr>
+    <td style="border:1px solid #fff">2</td>
+    <td style="border:1px solid #fff">Ctrl + Shift + Esc</td>
+    <td style="border:1px solid #fff">Directly opens a Task Manager.</td>
+</tr>
+<tr>
+    <td style="border:1px solid #fff">3</td>
+    <td style="border:1px solid #fff">Alt + F4</td>
+    <td style="border:1px solid #fff">Close current window (or open shutdown menu if no windows are active).</td>
+</tr>
+<tr>
+    <td style="border:1px solid #fff">4</td>
+    <td style="border:1px solid #fff">Windows + R</td>
+    <td style="border:1px solid #fff">Open run dialog box (then run commands like <i><b style="background-color: #fefefe; padding: 3px 4px; border-radius: 10px; color: #000">cmd</b></i> , 
+    <i><b style="background-color: #fefefe; padding: 3px 4px; border-radius: 10px; color: #000">notepad</b></i> etc).</td>
+</tr>
+</tbody>
+</table>
+
 ## 🧑‍💻 Credits:- [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")

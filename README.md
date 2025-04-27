@@ -81,5 +81,31 @@
  </tbody>
 </table>
 
+## 🖱️Window Management (Snap Like a Pro)
+
+<table style="border: 1px solid #fff">
+<thead style="border: 1px solid #fff">
+    <th style="border: 1px solid #fff">SL No.</th>
+    <th style="border: 1px solid #fff">Shortcut</th>
+    <th style="border: 1px solid #fff">Action</th>
+</thead>
+<tbody style="border: 1px solid #fff">
+<tr>
+    <td style="border: 1px solid #fff">1</td>
+    <td style="border: 1px solid #fff">Windows + Left/Right Arrow</td>
+    <td style="border: 1px solid #fff">Snap window to left/right half of the screen.</td>
+</tr>
+<tr>
+    <td style="border: 1px solid #fff">2</td>
+    <td style="border: 1px solid #fff">Windows + Up/Down Arrow</td>
+    <td style="border: 1px solid #fff">Maximize / Minimize the window.</td>
+</tr>
+<tr>
+    <td style="border: 1px solid #fff">3</td>
+    <td style="border: 1px solid #fff">Windows + Shift + Left/Right Arrow</td>
+    <td style="border: 1px solid #fff">Move window to another monitor (if using multiple displays).</td>
+</tr>
+</tbody>
+</table>
 
 ## 🧑‍💻 Credits:- [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")

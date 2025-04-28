@@ -141,4 +141,46 @@
 </tbody>
 </table>
 
+## 🌐 Browser Tricks (Chrome, Edge etc.)
+
+<table>
+<thead style="border: 1px solid #fff">
+    <th style="border: 1px solid #fff">SL. No</th>
+    <th style="border: 1px solid #fff">Shortcut</th>
+    <th style="border: 1px solid #fff">Action</th>
+</thead>
+<tbody style="border: 1px solid #fff">
+    <tr>
+        <td style="border: 1px solid #fff">1</td>
+        <td style="border: 1px solid #fff">Ctrl + T</td>
+        <td style="border: 1px solid #fff">Opens new tab.</td>
+    </tr> 
+    <tr>
+        <td style="border: 1px solid #fff">2</td>
+        <td style="border: 1px solid #fff">Ctrl + W</td>
+        <td style="border: 1px solid #fff">Close current tab.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #fff">3</td>
+        <td style="border: 1px solid #fff">Ctrl + SHift + T</td>
+        <td style="border: 1px solid #fff">Reopen last closed tab (lifesaver if you accidentally closed something.)</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #fff">4</td>
+        <td style="border: 1px solid #fff">Ctrl + tab</td>
+        <td style="border: 1px solid #fff">Move to the next tab.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #fff">5</td>
+        <td style="border: 1px solid #fff">Ctrl + Shift + tab</td>
+        <td style="border: 1px solid #fff">Move to the previous tab.</td>
+    </tr> 
+     <tr>
+        <td style="border: 1px solid #fff">5</td>
+        <td style="border: 1px solid #fff">Ctrl + L </td>
+        <td style="border: 1px solid #fff">Jump straight to the URL bar to type a website address.</td>
+    </tr>
+</tbody>
+</table>
+
 ## 🧑‍💻 Credits:- [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")

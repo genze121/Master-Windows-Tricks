@@ -187,6 +187,6 @@
 
     > Win + .(Period) / :(colon) -> Opens Emoji Picker
 
-        (Use it to add emojis quickly in chats, emails, notes during interview - subtly shows confidence).
+    (Use it to add emojis quickly in chats, emails, notes during interview - subtly shows confidence).
 
 ## 🧑‍💻 Credits:- [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")

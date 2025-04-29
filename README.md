@@ -199,4 +199,36 @@
 
         4) Win + V to instantly paste previous copied items (faster than re - copying).
 
+## 🔥 Ultra - Useful Windows Shortcuts
+
+<table>
+ <thead style="border: 1px solid #fff">
+    <th style="border: 1px solid #fff">SL. No</th>
+    <th style="border: 1px solid #fff">Shortcut</th>
+    <th style="border: 1px solid #fff">Action</th>
+ </thead>
+ <tbody>
+    <tr>
+        <td style="border: 1px solid #fff">1</td>
+        <td style="border: 1px solid #fff">Windows + I</td>
+        <td style="border: 1px solid #fff">Open Settings Instantly.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #fff">2</td>
+        <td style="border: 1px solid #fff">Windows + A</td>
+        <td style="border: 1px solid #fff">Open Action Center (Notifications + Quick Settings).</td>
+    </tr>
+     <tr>
+        <td style="border: 1px solid #fff">3</td>
+        <td style="border: 1px solid #fff">Windows + K</td>
+        <td style="border: 1px solid #fff">Open Connect Panel (to connect Bluetooth, wireless display etc).</td>
+    </tr>
+     <tr>
+        <td style="border: 1px solid #fff">4</td>
+        <td style="border: 1px solid #fff">Windows + P</td>
+        <td style="border: 1px solid #fff">Project screen (for meetings - Duplicate, Extend, Second screen).</td>
+    </tr>
+ </tbody>
+</table>
+
 ## 🧑‍💻 Credits:- [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")

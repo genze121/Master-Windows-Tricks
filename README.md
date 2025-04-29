@@ -189,4 +189,14 @@
 
     (Use it to add emojis quickly in chats, emails, notes during interview - subtly shows confidence).
 
+## 🎯 Quick Strategy for Interviews
+
+        1) Use Windows + D  to clear the clutter if you are sharing the screen.
+
+        2) Use Alt + Tab confidently switch between apps while presenting.
+
+        3) Use Windows + E to open files quickly without touching the mouse.
+
+        4) Win + V to instantly paste previous copied items (faster than re - copying).
+
 ## 🧑‍💻 Credits:- [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")

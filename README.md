@@ -162,7 +162,7 @@
     </tr>
     <tr>
         <td style="border: 1px solid #fff">3</td>
-        <td style="border: 1px solid #fff">Ctrl + SHift + T</td>
+        <td style="border: 1px solid #fff">Ctrl + Shift + T</td>
         <td style="border: 1px solid #fff">Reopen last closed tab (lifesaver if you accidentally closed something.)</td>
     </tr>
     <tr>
@@ -227,6 +227,31 @@
         <td style="border: 1px solid #fff">4</td>
         <td style="border: 1px solid #fff">Windows + P</td>
         <td style="border: 1px solid #fff">Project screen (for meetings - Duplicate, Extend, Second screen).</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #fff">5</td>
+        <td style="border: 1px solid #fff">Windows + Ctrl + D</td>
+        <td style="border: 1px solid #fff">Create a new virtual desktop (you can have multiple desktops running different tasks).</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #fff">6</td>
+        <td style="border: 1px solid #fff">Windows + Ctrl + Left/Right Arrow</td>
+        <td style="border: 1px solid #fff">Switch between virtual desktops.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #fff">7</td>
+        <td style="border: 1px solid #fff">Windows + Ctrl + F4</td>
+        <td style="border: 1px solid #fff">Close current Virtual Desktop.</td>
+    </tr> 
+    <tr>
+        <td style="border: 1px solid #fff">8</td>
+        <td style="border: 1px solid #fff">Ctrl + Shift + N</td>
+        <td style="border: 1px solid #fff">Creates a new folder instantly (in File Explorer).</td>
+    </tr> 
+    <tr>
+        <td style="border: 1px solid #fff">9</td>
+        <td style="border: 1px solid #fff">Windows + Pause/Break</td>
+        <td style="border: 1px solid #fff">Open System Properties (PC info fast - specs, computer name etc).</td>
     </tr>
  </tbody>
 </table>

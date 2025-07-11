@@ -256,4 +256,36 @@
  </tbody>
 </table>
 
+## 🚀 Power + Productivity Shortcuts
+
+<table>
+<thead style="border: 1px solid #fff">
+    <th style="border: 1px solid #fff">SL. No</th>
+    <th style="border: 1px solid #fff">Shortcut</th>
+    <th style="border: 1px solid #fff">Action</th>
+ </thead>
+    <tbody>
+     <tr>
+        <td style="border: 1px solid #fff">1</td>
+        <td style="border: 1px solid #fff">Windows + Shift + S</td>
+        <td style="border: 1px solid #fff">Take a screenshot of a specific area (Opens Snipping Tool).</td>
+     </tr>
+     <tr>
+        <td style="border: 1px solid #fff">2</td>
+        <td style="border: 1px solid #fff">Alt + Print Screen</td>
+        <td style="border: 1px solid #fff">Screenshot of the active window only (saves time).</td>
+     </tr>
+     <tr>
+        <td style="border: 1px solid #fff">3</td>
+        <td style="border: 1px solid #fff">Ctrl + Shift + Esc</td>
+        <td style="border: 1px solid #fff">Direct open to Task Manager without extra steps.</td>
+     </tr>
+     <tr>
+        <td style="border: 1px solid #fff">4</td>
+        <td style="border: 1px solid #fff">Windows + Tab</td>
+        <td style="border: 1px solid #fff">	Open Timeline/Task View (visual switch between apps + desktops).</td>
+     </tr>
+   </tbody>
+</table>
+
 ## 🧑‍💻 Credits:- [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
